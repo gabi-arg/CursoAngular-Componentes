@@ -1,0 +1,14 @@
+.contenido-container{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  position: relative;
+  height: auto;
+
+}
+.contenido-container img{
+  width:50rem;
+  height: 36rem;
+  object-fit: cover;
+}
+
